@@ -59,3 +59,4 @@ Thumbs.db
 !.phpcs.xml.dist
 !.env.example
 .vercel
+.*.env
