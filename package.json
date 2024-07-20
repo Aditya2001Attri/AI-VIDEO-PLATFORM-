@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.44.4",
+    "elevenlabs": "^0.10.0",
+    "openai": "^4.52.7"
+  }
+}
